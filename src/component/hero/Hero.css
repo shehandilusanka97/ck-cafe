@@ -1,0 +1,11 @@
+.hero{
+ background-color: var(--overlay);
+}
+.hero .img{
+    width: 75%;
+    display: flex;
+    align-self: flex-end;
+    /* margin-bottom: -10%; */
+    margin-top: 40%;
+    margin-right: 40%;
+}
